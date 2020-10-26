@@ -13,5 +13,10 @@ p {
   height: 100px;
   width: 100px;
 }
-
+ol {
+  list-style-type: lower-alpha;
+}
+ul {
+  list-style-type: square;
+}
     
