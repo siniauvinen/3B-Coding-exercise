@@ -1,1 +1,17 @@
+body {
+  background-color: black; color:white;
+}
+h1 {
+  font-size: 20px;
+}
+p {
+  color: green; font-size: 12px;
+}
+.kirka {
+  border: 2px;
+  border-style: dotted;
+  height: 100px;
+  width: 100px;
+}
 
+    
